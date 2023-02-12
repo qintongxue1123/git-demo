@@ -5,5 +5,5 @@ hello,tom!Hi,jack!
 hello,tom!Hi,jack!
 hello,tom!Hi,jack!
 hello,tom!Hi,jack!
-hello,tom!Hi,jack!
-hello,tom!Hi,jack!
+hello,tom!Hi,jack!  hot-fix branch
+hello,tom!Hi,jack!  master branch
